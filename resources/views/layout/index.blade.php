@@ -33,7 +33,7 @@
         <p>Веб-орієнтована інформаційна система видачі дозвільних документів посольством країни</p>
 
         <div class="footer-list">
-            <a class="link-one" target="_blank" href="">Repositories</a>
+            <a class="link-one" target="_blank" href="https://github.com/landerg/Embassy">Repositories</a>
             <a class="link-two" target="_blank" href="https://ua.usembassy.gov/">usembassy.gov</a>
             <a class="link-three" target="_blank" href="https://usa.mfa.gov.ua/en">mfa.gov</a>
         </div>
